@@ -100,7 +100,9 @@ body,html{
 }
 .blocks{
     height:300px;background-image: url(https://media2.giphy.com/media/xT0GqpRWUoYlUSQpaM/giphy.gif);
-    padding-top:5%;padding-left:40px;
+    padding-top:5%;
+    padding-bottom:10%;
+    padding-left:40px;
 }
 #b1{
      float:left;margin-top: 10px;
@@ -124,10 +126,7 @@ body,html{
     margin-top: 10px;
     border-radius: 7px;
 }
-.blocks1{
-    height:300px;background-image: url(https://media2.giphy.com/media/xT0GqpRWUoYlUSQpaM/giphy.gif);
-    padding-top:5%;padding-left:40px;
-}
+
 #b4{
      float:left;margin-top: 10px;
      
